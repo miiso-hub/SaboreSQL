@@ -14,21 +14,16 @@ a) Crear la base de datos con el archivo create_restaurant_db.sql
 b) Explorar la tabla “menu_items” para conocer los productos del menú.  
   
 1.- Realizar consultas para contestar las siguientes preguntas:  
-* Encontrar el número de artículos en el menú.
-32 articulos  
-* ¿Cuál es el artículo menos caro y el más caro en el menú?
-Articulo caro 19.95
-Atticulo barato 5.00  
+* Encontrar el número de artículos en el menú.  
+* ¿Cuál es el artículo menos caro y el más caro en el menú?  
 * ¿Cuántos platos americanos hay en el menú?  
-6 platillos americanos  
 * ¿Cuál es el precio promedio de los platos?  
-Precio promedio de 13.29
   
 c) Explorar la tabla “order_details” para conocer los datos que han sido recolectados.  
   
 1.- Realizar consultas para contestar las siguientes preguntas:  
-* ¿Cuántos pedidos únicos se realizaron en total?  
-* ¿Cuáles son los 5 pedidos que tuvieron el mayor número de artículos?  
+* ¿Cuántos pedidos únicos se realizaron en total?
+* ¿Cuáles son los 5 pedidos que tuvieron el mayor número de artículos?
 * ¿Cuándo se realizó el primer pedido y el último pedido?  
 * ¿Cuántos pedidos se hicieron entre el '2023-01-01' y el '2023-01-05'?  
 
